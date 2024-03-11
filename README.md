@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athirasarman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular and Scss
+- 🌱 I’m currently learning React
 - 📫 How to reach me kaithakkottuathira@gmail.com
 
 <!---
